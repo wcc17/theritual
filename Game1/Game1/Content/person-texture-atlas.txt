@@ -1,0 +1,4 @@
+person-active-down = 0 0 60 80
+person-active-left = 60 0 60 80
+person-active-right = 120 0 60 80
+person-active-up = 180 0 60 80

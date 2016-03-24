@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>W:/Game1/Game1/Content/larger-sprite-font.spritefont</SourceFile>
+  <SourceTime>2016-01-31T12:36:52.812529-05:00</SourceTime>
+  <DestFile>W:/Game1/Game1/Content/bin/WindowsGL/larger-sprite-font.xnb</DestFile>
+  <DestTime>2016-01-31T15:23:11.943244-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-09-25T09:42:10-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-09-25T09:42:10-04:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

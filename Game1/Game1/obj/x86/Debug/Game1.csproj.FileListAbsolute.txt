@@ -1,0 +1,10 @@
+C:\Users\camp\Desktop\sample\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\camp\Desktop\sample\Game1\Game1\bin\WindowsGL\Debug\Game1.exe
+C:\Users\camp\Desktop\sample\Game1\Game1\bin\WindowsGL\Debug\Game1.pdb
+C:\Users\camp\Desktop\sample\Game1\Game1\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\camp\Desktop\sample\Game1\Game1\bin\WindowsGL\Debug\NVorbis.dll
+C:\Users\camp\Desktop\sample\Game1\Game1\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\camp\Desktop\sample\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\camp\Desktop\sample\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\camp\Desktop\sample\Game1\Game1\bin\WindowsGL\Debug\Content\background-scaled.xnb
+C:\Users\camp\Desktop\sample\Game1\Game1\bin\WindowsGL\Debug\Content\person-scaled.xnb

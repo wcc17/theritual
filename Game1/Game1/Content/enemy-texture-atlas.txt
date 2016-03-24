@@ -1,0 +1,2 @@
+enemy-left = 0 0 55 65
+enemy-right = 55 0 55 65

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>W:/Game1/Game1/Content/background-scaled.png</File>
+    <File>W:/Game1/Game1/Content/person-scaled.png</File>
+    <File>W:/Game1/Game1/Content/background-other-scaled.png</File>
+    <File>W:/Game1/Game1/Content/bullet.png</File>
+    <File>W:/Game1/Game1/Content/heart.png</File>
+    <File>W:/Game1/Game1/Content/person-active.png</File>
+    <File>W:/Game1/Game1/Content/person-inactive.png</File>
+    <File>W:/Game1/Game1/Content/bone.png</File>
+    <File>W:/Game1/Game1/Content/background-other1-scaled.png</File>
+    <File>W:/Game1/Game1/Content/background-other2-scaled.png</File>
+    <File>W:/Game1/Game1/Content/boot.png</File>
+    <File>W:/Game1/Game1/Content/person-texture-atlas.png</File>
+    <File>W:/Game1/Game1/Content/ring.png</File>
+    <File>W:/Game1/Game1/Content/rock.png</File>
+    <File>W:/Game1/Game1/Content/stick.png</File>
+    <File>W:/Game1/Game1/Content/enemy-texture-atlas.png</File>
+    <File>W:/Game1/Game1/Content/sprite-font.spritefont</File>
+    <File>W:/Game1/Game1/Content/larger-sprite-font.spritefont</File>
+    <File>W:/Game1/Game1/Content/person-active-dead.png</File>
+    <File>W:/Game1/Game1/Content/ghost.png</File>
+    <File>W:/Game1/Game1/Content/restart-button.png</File>
+  </SourceFiles>
+</SourceFileCollection>
